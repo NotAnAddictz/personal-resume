@@ -1,4 +1,3 @@
-import React from "react";
 import "../css/Intro.css";
 import Face from "../assets/profile.jpg";
 const Intro = () => {

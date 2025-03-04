@@ -1,4 +1,3 @@
-import React from "react";
 import "../css/Others.css";
 import C from "../assets/C.png";
 import Python from "../assets/Python.png";
@@ -15,8 +14,8 @@ const Others = () => {
       <div>
         <h1 className="others-header">Experience</h1>
         <div className="section-text experience">
-          <ExpAmili className="card"></ExpAmili>
-          <ExpDSTA className="card"></ExpDSTA>
+          <ExpAmili></ExpAmili>
+          <ExpDSTA></ExpDSTA>
         </div>
       </div>
       <div>
