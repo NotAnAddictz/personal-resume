@@ -1,12 +1,12 @@
 {
   "name": "personal-resume",
   "private": true,
-  "homepage":"https://notanaddictz.github.io/personal-resume",
+  "homepage":"https://notanaddictz.github.io/personal-resume/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
