@@ -1,0 +1,27 @@
+.others-main{
+  display:grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  background-image: url('../assets/backgroundEnd.jpg');
+  background-size:cover;
+  gap:10px
+}
+
+.section-text{
+  margin:10px;
+}
+.experience{
+  display:grid;
+  grid-template-rows: 1fr 1fr;
+  row-gap: 10px;
+}
+.image{
+  border-radius:50%;
+  padding:1px;
+  width: 40px;;
+}
+
+.others-header{
+  font-family: 'Wedges', sans-seriff;
+  font-size:35px;
+  margin: 0px;
+}

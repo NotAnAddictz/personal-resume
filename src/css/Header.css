@@ -1,0 +1,17 @@
+.header{
+  background-color:white;
+  font-family:'Times New Roman',Times, Seriff;
+  font-size:30px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.left-header{
+  margin-left: 30px;
+  font-size:30px;
+}
+
+.right-header{
+  float:right;
+  margin-right:30px;
+  position: relative;
+}
